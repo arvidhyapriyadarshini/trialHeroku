@@ -79,4 +79,3 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.2
 widgetsnbextension==3.6.1
-gunicorn==20.1.0
