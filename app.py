@@ -4,8 +4,8 @@ app = Flask(__name__)
 
 
 @app.route("/")
-def readLatestEntry():
-    return ("Hello World")
+def sayhello():
+    return ("Hello World!")
 
 
 if __name__ == "__main__":
